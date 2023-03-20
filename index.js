@@ -6,7 +6,7 @@ alert("Hey good\n")
 var a = 10
 var b = 20
 var c = a + b
-const d = a - b;
+var d = a - b;
 const e = a * b;
 const f = a / b;
 console.log("sum of two number", c)
