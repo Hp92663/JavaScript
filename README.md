@@ -25,4 +25,17 @@
 
     7. symbol
 
-   
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/operators_comment.js">Operator & Comment</a></h2>
+
+
+    1. Arithmetic operator
+    
+    2. Assignment operator
+
+    3. Comparison operator
+
+    4. Logical operator
+
+    5. Bitwise operator
+
+    6. Ternary operator
