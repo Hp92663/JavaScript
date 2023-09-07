@@ -4,9 +4,9 @@ console.log('Datatype and Object');
 
 // In JavaScript there are 7 Primitive Datatypes
 
-//Integer | String | Boolean | BigInt | Null | Undefined | Symbol
+// Number | String | Boolean | BigInt | Null | Undefined | Symbol
 
-let a = 53;  // Integer
+let a = 53;  // number
 let b = "Hiren"; //String
 let c = true; // Boolean, it can be either 'true' or 'false'
 let d = BigInt(345) + BigInt(321);
