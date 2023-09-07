@@ -25,11 +25,11 @@ console.log("\n");
 // Object
 
 const person = {
-  'firstname': "hiren",
-  'age' : 22,
+  firstname : "hiren",
+  age  : 22,
 
   // some other example with primitive datatypes
-  'x' : null, // null
+   x : null, // null
   'y' : undefined, // Undefined
   'z' : true  // boolean
 }
