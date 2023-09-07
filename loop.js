@@ -1,4 +1,7 @@
-for(i=0;i<=10;i++)
+let x=myFunction(4, 7);
+
+function myFunction(a,b)
   {
-    document.write(i)
+      return a*b;
+
   }

@@ -39,18 +39,28 @@ switch (n1) {
     break;
 
   case 2:
-    n1 = "You Press 1";
+    n1 = "You Press 2";
     break;
 
   case 3:
     n1 = "You Press 3";
     break;
 
-default:
-  n1= "Enter Valid Number";
+  default:
+    n1 = "Enter Valid Number";
 
 }
 console.log(n1)
 
-// loop
+// Function 
+
+let x = myFunction(4, 7);
+
+function myFunction(a, b) {
+  return a * b;
+
+}
+
+myFunction();
+
 
