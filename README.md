@@ -1,6 +1,6 @@
 # JavaScript
 
-##  Variables - let_var_const.js
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/let_var_const.js">let var const</a></h2>
 
     1. let
     
@@ -8,7 +8,8 @@
 
     3. const
 
-##  Datatype & Object - datatype_object.js
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/datatype_object.js">Datatype & Object</a></h2>
+
 
     1. integer
     
