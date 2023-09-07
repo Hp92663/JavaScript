@@ -1,3 +1,6 @@
+// Basic of JS
+
+
 console.log("hiren")
 alert("Hey good\n")
 
@@ -5,10 +8,11 @@ alert("Hey good\n")
 //Arithmetic Operation
 var a = 10
 var b = 20
-var c = a + b
-var d = a - b;
+let c = a + b
+let d = a - b;
 const e = a * b;
 const f = a / b;
+
 console.log("sum of two number", c)
 console.log("sub of two number", d)
 console.log("mul of two number", e)
@@ -22,12 +26,11 @@ if (n > 0) {
 }
 else if (n < 0) {
   console.log("Number is Negative")
-
-
 }
 else {
   console.log("Number is zero")
 }
+
 
 // Switch case
 console.log("\nExample of Switch Case")
