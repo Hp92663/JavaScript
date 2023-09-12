@@ -29,7 +29,7 @@
 
 
     1. Arithmetic operator
-    
+
     2. Assignment operator
 
     3. Comparison operator
@@ -47,3 +47,27 @@
     1. Prompt
     
     2. Alert
+
+
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/condition_expression.js">conditional expression</a></h2>
+
+
+    1. if 
+    
+    2. if ... else
+
+    2. if ... else..if
+
+
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/loop.js">loops</a></h2>
+
+
+    1. for loop
+    
+    2. for in loop
+
+    2. for of loop
+
+    4. while loop
+    
+    5. do while loop
