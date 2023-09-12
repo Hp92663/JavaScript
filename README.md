@@ -39,3 +39,6 @@
     5. Bitwise operator
 
     6. Ternary operator
+
+
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/promt_alert.js">Operator & Comment</a></h2>
