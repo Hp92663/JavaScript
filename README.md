@@ -41,4 +41,4 @@
     6. Ternary operator
 
 
-<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/promt_alert.js">Operator & Comment</a></h2>
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/promt_alert.js">Prompt & Alert</a></h2>
