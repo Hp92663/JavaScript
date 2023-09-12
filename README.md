@@ -42,3 +42,8 @@
 
 
 <h2><a href="https://github.com/Hp92663/JavaScript/blob/main/promt_alert.js">Prompt & Alert</a></h2>
+
+
+    1. Prompt
+    
+    2. Alert
