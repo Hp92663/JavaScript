@@ -6,8 +6,8 @@
 let a = 10;
 let b = 5;
 
-console.log("a / b", a/b); // here get accurate answer without dividor
-console.log("a ** b", a**b); // b is power ofa
+console.log("a / b", a / b); // here get accurate answer without dividor
+console.log("a ** b", a ** b); // b is power ofa
 console.log("a ++", a++); // here first time print as it  value  10
 console.log("a ++", a++); // now increment 10+1
 console.log("a --", a--); // here first time print as it  value 12
@@ -29,12 +29,12 @@ console.log("\n");
 let x = 10;
 let y = 15;
 let z = "10"; // here z is a string datatype
-console.log("x == y is", x==y); // false
-console.log("x == z is", x==z); // true
-console.log("x != y is", x!=y); // true
+console.log("x == y is", x == y); // false
+console.log("x == z is", x == z); // true
+console.log("x != y is", x != y); // true
 
-console.log("x === z is", x===z); // show 'false' because value is match but type is not match' -> but z is number than show 'true'
-console.log("x !== z is", x!==z); // show 'true' because value is match but type is not match' -> but z is number than show 'false'
+console.log("x === z is", x === z); // show 'false' because value is match but type is not match' -> but z is number than show 'true'
+console.log("x !== z is", x !== z); // show 'true' because value is match but type is not match' -> but z is number than show 'false'
 
 console.log("\n");
 
@@ -43,14 +43,22 @@ console.log("\n");
 // 4. Logical operator
 // && -> AND, || -> OR, ! -> NOT
 
-console.log(x<y && x == 10); // it check both condition if both true then true otherwise false
-console.log(x>y || x == 10); // if any condition is true than true otherwise false
+console.log(x < y && x == 10); // it check both condition if both true then true otherwise false
+console.log(x > y || x == 10); // if any condition is true than true otherwise false
 console.log(!false); // is true than false
 console.log(!true); // is false then true
 
 
 //-------------------------------------------
 // 5. Bitwise operator
+
+
+
+//-------------------------------------------
+// 6. Ternary operator
+
+let age = 22;
+console.log("You can", age > 18 ? "drive" : "not drive");
 
 
 //-------------------------------------------
