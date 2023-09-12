@@ -71,3 +71,12 @@
     4. while loop
     
     5. do while loop
+
+
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/function.js">Function</a></h2>
+
+    1. simple function
+    
+    2. function with parameters
+
+    3. arrow function
