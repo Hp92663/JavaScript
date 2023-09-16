@@ -1,5 +1,7 @@
 //  Array - user for the store multiple value in single variable with diffrent type datatypes
-//  array is muttable so that it can be update & change
+//  Array is muttable so that it can be update & change
+//  By default array is in 'object' format
+
 
 let marks = [80, 50, 81, 37, 65];
 console.log(marks); // print all array
