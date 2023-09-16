@@ -80,3 +80,27 @@
     2. function with parameters
 
     3. arrow function
+
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/string.js">String & Escape Sequence</a></h2>
+
+    1. simple function
+    
+    2. function with parameters
+
+    3. arrow function
+
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/string_method.js">String Method</a></h2>
+
+    1. length
+    
+    2. toUpperCase()
+
+    3. toLowerCase()
+
+    4. slice()
+
+    5. replace()
+
+    6. concat()
+
+    7. trim()
