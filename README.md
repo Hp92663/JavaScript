@@ -104,3 +104,5 @@
     6. concat()
 
     7. trim()
+
+    8. includes()
