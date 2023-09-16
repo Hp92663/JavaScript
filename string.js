@@ -1,4 +1,5 @@
 //  string -   collection of characterics
+//  string is immutable so that it can't change
 
 //  In string that can 2 way to create a string 
 // 1. Single quotes  ->  ''

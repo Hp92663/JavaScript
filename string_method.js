@@ -25,6 +25,20 @@ console.log("\n");
 console.log(name.slice(2)); // from 2 to end of string  --  'ren'
 console.log("\n");
 
+//  method 3
+
+let str = "We have rupees 1000" // here return only '1000 '
+let newstr = str.slice("We have rupees ".length);
+console.log(newstr);
+console.log(typeof newstr); // string
+console.log("\n");
+
+//  if return '1000' in 'number' format
+let str2 = Number.parseInt(str.slice("We have rupees ".length));
+console.log(str2);
+console.log(typeof str2); // number
+console.log("\n");
+
 
 // 4. replace - replace string exchange of new string 
 
@@ -48,8 +62,24 @@ console.log("\n");
 
 let space ="    Space     ";
 console.log(space.trim());
-
 console.log("\n");
+
+
+//  7. includes - returns 'true' if a string contains a specified string otherwise 'false'
+
+const sentence = " Separate ideas generally require separate sentences."
+const word = "generally"; 
+const word1 = "hello"; 
+console.log(sentence.includes(word)) // return 'true'
+console.log(sentence.includes(word1)) // return 'false'
+console.log("\n");
+
+
+//  using Ternary Operator
+console.log(`This word "${word}" ${sentence.includes(word) ? "is" : "is not "} in the sentence`)
+console.log("\n");
+
+
 
 // string also access using array method
 
