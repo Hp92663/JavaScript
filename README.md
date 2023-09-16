@@ -83,11 +83,9 @@
 
 <h2><a href="https://github.com/Hp92663/JavaScript/blob/main/string.js">String & Escape Sequence</a></h2>
 
-    1. simple function
-    
-    2. function with parameters
+  + string
 
-    3. arrow function
+  + escape sequence
 
 <h2><a href="https://github.com/Hp92663/JavaScript/blob/main/string_method.js">String Method</a></h2>
 
@@ -106,3 +104,35 @@
     7. trim()
 
     8. includes()
+
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/array.js">Array</a></h2>
+
+    + create array
+
+    + update & change array element
+
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/array_method.js">Array Method</a></h2>
+
+    1. toString()
+    
+    2. join()
+
+    3. pop()
+
+    4. push()
+
+    5. shift()
+
+    6. unshift()
+
+    7. delete()
+
+    8. concat()
+
+    9. sort()
+
+    10. splice()
+
+    11. slice()
+
+    12. reverse()
