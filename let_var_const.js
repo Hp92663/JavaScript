@@ -33,8 +33,8 @@ let d = 53;
 
 console.log(c); // it can execute local variable value
 
-// var is block scoped'
-// var can be update but not re-declare
+// let is block scoped'
+// let can be update but not re-declare
 
 // example 
 
