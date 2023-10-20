@@ -136,3 +136,17 @@
     11. slice()
 
     12. reverse()
+
+
+
+
+
+<h2>Call back</h2>
+<h2>Call back hell / pyramid of domm</h2>
+<h2>Promises</h2>
+<h2>Promises chaining</h2>
+<h2>Class, getter, setter method & class expression</h2>
+<h2>Object Destructering</h2>
+<h2>Object Construction</h2>
+<h2>object Prototype</h2>
+<h2>IIFE</h2>
