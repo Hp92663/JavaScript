@@ -7,7 +7,7 @@
     2. var
 
     3. const
-
+    
 <h2><a href="https://github.com/Hp92663/JavaScript/blob/main/datatype_object.js">Datatype & Object</a></h2>
 
 
