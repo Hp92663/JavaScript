@@ -140,12 +140,13 @@
 
 
 
-<h3>Call back</h2>
-<h2>Call back hell / pyramid of domm</h2>
-<h2>Promises</h2>
-<h2>Promises chaining</h2>
-<h2>Class, getter, setter method & class expression</h2>
-<h2>Object Destructering</h2>
-<h2>Object Constructor</h2>
-<h2>object Prototype</h2>
-<h2>IIFE</h2>
+<h3><a href="https://github.com/Hp92663/JavaScript/blob/main/callback.js">Call back</a></h2>
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/callback_hell.js">Call back hell / pyramid of domm</a></h2>
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/promises.js">Promises</a></h2>
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/promises.js">Promises chaining</a></h2>
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/class_getter_setter.js">Class, getter, setter method & class expression</a></h2>
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/object_destructuring.js">Object Destructering</a></h2>
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/object_constructor.js">Object Constructor</a></h2>
+<h2><a href=https://github.com/Hp92663/JavaScript/blob/main/object_prototype.js">object Prototype</a></h2>
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/array_method.js">IIFE</a></h2>
+<h2><a href="https://github.com/Hp92663/JavaScript/blob/main/array_method.js">Hoisting</a></h2>
